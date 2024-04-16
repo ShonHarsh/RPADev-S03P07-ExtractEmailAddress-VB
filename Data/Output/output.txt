@@ -1,0 +1,6 @@
+04/16/2024 15:09:41 => [Debug] Debug started for file: Main
+04/16/2024 15:09:41 => [Info] RPADev-S03P07-ExtractEmailAddress-VB execution started
+04/16/2024 15:09:41 => [Info] RPADev-S03P07-ExtractEmailAddress-VB.Main.Begin;
+04/16/2024 15:09:41 => [Info] RPADev-S03P07-ExtractEmailAddress-VB.Main.Print; Email: john.doe@localcompany.com
+04/16/2024 15:09:41 => [Info] RPADev-S03P07-ExtractEmailAddress-VB.Main.End;
+04/16/2024 15:09:41 => [Info] RPADev-S03P07-ExtractEmailAddress-VB execution ended in: 00:00:00
